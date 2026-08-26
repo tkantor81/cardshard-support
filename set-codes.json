@@ -1,0 +1,77 @@
+{
+  "version": "2026-08-26",
+  "sets": [
+    {
+      "printedCode": "PRM01",
+      "apiCode": "PRM01",
+      "name": "Set 1 Promos",
+      "aliases": []
+    },
+    {
+      "printedCode": "MS01 - WNC [A]",
+      "apiCode": "welcometonightcityretail",
+      "name": "Welcome to Night City — Retail",
+      "aliases": []
+    },
+    {
+      "printedCode": "MS01 - WNC [A]",
+      "apiCode": "welcometonightcitybeta",
+      "name": "Welcome to Night City — Beta",
+      "aliases": ["WNC01-B", "W"]
+    },
+    {
+      "printedCode": "PRR01 - WNC",
+      "apiCode": "prereleasebeta",
+      "name": "Pre-Release Beta",
+      "aliases": []
+    },
+    {
+      "printedCode": "SD02 - EBP [A]",
+      "apiCode": "embracingpowerretailstarterdeck",
+      "name": "Embracing Power — Retail Starter Deck",
+      "aliases": []
+    },
+    {
+      "printedCode": "SD02 - EBP [A]",
+      "apiCode": "embracingpowerbetastarterdeck",
+      "name": "Embracing Power — Beta Starter Deck",
+      "aliases": []
+    },
+    {
+      "printedCode": "SD01 - HEI [A]",
+      "apiCode": "theheistretailstarterdeck",
+      "name": "The Heist — Retail Starter Deck",
+      "aliases": []
+    },
+    {
+      "printedCode": "SD01 - HEI [A]",
+      "apiCode": "theheistbetastarterdeck",
+      "name": "The Heist — Beta Starter Deck",
+      "aliases": []
+    },
+    {
+      "printedCode": "PRM - WNC [A]",
+      "apiCode": "boxtoppersretail",
+      "name": "Box Toppers — Retail",
+      "aliases": []
+    },
+    {
+      "printedCode": "PRM - WNC [A]",
+      "apiCode": "boxtoppersbeta",
+      "name": "Box Toppers — Beta",
+      "aliases": []
+    },
+    {
+      "printedCode": "PRM - DD2 [A]",
+      "apiCode": "arasakademodeck",
+      "name": "Arasaka Demo Deck",
+      "aliases": []
+    },
+    {
+      "printedCode": "PRM - DD1 [A]",
+      "apiCode": "mercdemodeck",
+      "name": "Merc Demo Deck",
+      "aliases": []
+    }
+  ]
+}
