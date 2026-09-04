@@ -72,6 +72,12 @@
       "apiCode": "mercdemodeck",
       "name": "Merc Demo Deck",
       "aliases": []
+    },
+    {
+      "printedCode": "EOR01 - WNC",
+      "apiCode": "edgerunneropens1",
+      "name": "Edgerunner Open S 1",
+      "aliases": []
     }
   ]
 }
